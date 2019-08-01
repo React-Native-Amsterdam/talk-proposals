@@ -1,7 +1,7 @@
 ---
 name: Talk proposal - Lightning Talk (10-15 minutes)
 about: Propose a short talk. Maximum of 15 minutes.
-title: "<title>"
+title: ""
 labels: Lightning
 assignees: ""
 ---
